@@ -60,3 +60,11 @@
 5. Run `sudo sysctl net.ipv4.tcp_available_congestion_control` and `sudo sysctl net.ipv4.tcp_congestion_control`. If both commands return `bbr`, BBR is enabled.
 6. Run `lsmod | grep bbr` and make sure `bbr` is in the result.
 7. Reboot your virtual machine.
+
+
+## 5. Add vmss
+
+
+https://itlanyan.com/namesilo-domain-tutorial/
+
+https://v2xtls.org/v2ray%e5%a4%9a%e5%90%88%e4%b8%80%e8%84%9a%e6%9c%ac%ef%bc%8c%e6%94%af%e6%8c%81vmesswebsockettlsnginx%e3%80%81vlesstcpxtls%e3%80%81vlesstcptls%e7%ad%89%e7%bb%84%e5%90%88/
